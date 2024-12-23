@@ -142,6 +142,7 @@ span{
 .about-img video{
     width: 40vw;
     height: 400px;
+    pointer-events:none;
 
 }
 .heading{
