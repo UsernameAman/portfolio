@@ -139,9 +139,9 @@ span{
     display: flex;
     justify-content: center;
 }
-.about-img img{
+.about-img video{
     width: 40vw;
-    border-radius: 35%;
+    height: 400px;
 
 }
 .heading{
@@ -396,7 +396,7 @@ cursor: pointer;
         flex-direction: column-reverse;
         justify-content: center;
     }
-    .about img{
+    .about video{
         width: 70%;
         margin-top: 4rem;
     }
@@ -427,7 +427,7 @@ margin-bottom: 3rem;
     .home-img img{
         width: 90vw;
     }
-    .about-img img{
+    .about-img video{
         width: 90vw;
 
     }
@@ -436,6 +436,6 @@ margin-bottom: 3rem;
     }
     .footer p{
         text-align: center;
-        margin-top: 2rem;
+        
     }
 }
